@@ -5,5 +5,4 @@
 !.vscode/extensions.json
 *.code-workspace
 /.git
-.main
-math_tools
+main

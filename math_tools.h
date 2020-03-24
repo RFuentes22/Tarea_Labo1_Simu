@@ -1,3 +1,5 @@
+//Algunas partes de este codigo corresponde a instructores de la materia
+
 #include <vector>
 #include "math.h"
 #include "stdlib.h"
